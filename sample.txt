@@ -1,0 +1,223 @@
+Build #1
+CPU
+$498.40
+AMD Ryzen 7 1800X 3.6 GHz 8-Core
+
+MOTHERBOARD
+$163.88
+ASRock X370 Taichi ATX AM4
+
+MEMORY
+$539.99
+Corsair Vengeance RGB Pro 64 GB (4 x 16 GB) DDR4-3000
+
+STORAGE
+$174.99
+HP EX920 1 TB M.2-2280 SSD
+
+STORAGE
+$306.99
+Western Digital Gold 8 TB 3.5" 7200RPM
+
+VIDEO CARD
+MSI GeForce GTX 1080 8 GB
+
+CASE
+$258.99
+Thermaltake Core P7 Tempered Glass Edition ATX Mid Tower
+
+POWER SUPPLY
+$269.99
+Thermaltake Toughpower iRGB PLUS Platinum 1200 W 80+ Platinum Certified Fully-Modular ATX
+
+OPERATING SYSTEM
+$189.00
+Microsoft Windows 10 Pro Full 32/64-bit
+
+MONITOR
+$799.99
+Dell AW3418DW 34.1" 3440x1440 120 Hz
+
+KEYBOARD
+$129.99
+G.Skill RIPJAWS KM780R RGB Wired Gaming
+
+CUSTOM
+$39.99
+Logitech G602
+
+CUSTOM
+$865.00
+B&W P9
+
+CUSTOM
+$699.00 (Purchased)
+B&W Zeppelin
+
+CUSTOM
+$80.00 (Purchased)
+Pacific W4 Plus CPU Water Block
+
+CUSTOM
+$190.00 (Purchased)
+Pacific PR22-D5 Plus
+
+CUSTOM
+$84.00 (Purchased)
+Pacific DIY LCS RL360 Radiator
+
+CUSTOM
+$60.00 (Purchased)
+Thermaltake TtMod Sleeve Extension Power Supply Cable Kit
+
+CUSTOM
+$19.00
+Thermaltake Pacific DIY LCS 1000mm Lengths V-Tubler PETG Hard Tubing
+
+CUSTOM
+$60.00 (Purchased)
+CORSAIR ST100 RGB Premium Headset Stand
+
+CUSTOM
+$35.89 (Purchased)
+Thermaltake Riing 12 High Static Pressure Circular Ring White LED
+
+Build #2
+CPU
+$369.99
+Intel Core i7-8700K 3.7 GHz 6-Core
+
+CPU COOLER
+$37.90
+CRYORIG H7 49 CFM
+
+MOTHERBOARD
+Gigabyte Z370 AORUS Gaming 5 (rev. 1.0) ATX LGA1151
+
+MEMORY
+$149.89
+G.Skill Trident Z RGB 16 GB (2 x 8 GB) DDR4-3000
+
+STORAGE
+$199.89
+Samsung 960 PRO 512 GB M.2-2280 SSD
+
+STORAGE
+$84.89
+Seagate Barracuda 3 TB 3.5" 7200RPM
+
+VIDEO CARD
+NVIDIA GeForce GTX 1080 8 GB Founders Edition
+
+CASE
+Corsair 750D Airflow Edition ATX Full Tower
+
+POWER SUPPLY
+$129.99
+Corsair RMx 750 W 80+ Gold Certified Fully-Modular ATX
+
+OPTICAL DRIVE
+$21.89
+Asus DRW-24B1ST/BLK/B/AS DVD/CD Writer
+
+OPERATING SYSTEM
+$98.89
+Microsoft Windows 10 Home OEM 64-bit
+
+MONITOR
+$137.89
+Asus VC239H 23.0" 1920x1080 60 Hz
+
+KEYBOARD
+$49.99
+Corsair K55 RGB Wired Gaming
+
+MOUSE
+$27.99
+SteelSeries Rival 110 Wired Optical
+
+UPS
+$109.95
+CyberPower CP1000AVRLCD
+
+Build #3
+CPU
+$350.00
+Intel Core i7-7700K 4.2 GHz Quad-Core
+
+CPU COOLER
+$149.89
+Corsair H100i v2 70.69 CFM Liquid
+
+MOTHERBOARD
+MSI Z270 GAMING M3 ATX LGA1151
+
+MEMORY
+$159.99
+G.Skill Trident Z RGB 16 GB (2 x 8 GB) DDR4-3200
+
+STORAGE
+Samsung 840 EVO 120 GB 2.5" SSD
+
+STORAGE
+$72.99
+Samsung 860 Evo 500 GB 2.5" SSD
+
+STORAGE
+$44.89
+Seagate BarraCuda 1 TB 3.5" 7200RPM
+
+VIDEO CARD
+$579.99
+Asus GeForce GTX 1080 8 GB TURBO
+
+CASE
+NZXT S340 Elite (Black/Red) ATX Mid Tower
+
+POWER SUPPLY
+$99.99
+SeaSonic FOCUS Plus Gold 850 W 80+ Gold Certified Fully-Modular ATX
+
+Build #4
+CPU
+$179.99
+AMD Ryzen 7 1700 3 GHz 8-Core
+
+CPU COOLER
+ID-COOLING Auraflow 240 RGB 74.5 CFM Liquid
+
+MOTHERBOARD
+$171.90
+Asus STRIX X370-F GAMING ATX AM4
+
+MEMORY
+$264.99
+G.Skill Trident Z RGB 32 GB (4 x 8 GB) DDR4-2400
+
+STORAGE
+$118.89
+Samsung 960 EVO 250 GB M.2-2280 SSD
+
+STORAGE
+$44.89
+Seagate BarraCuda 1 TB 3.5" 7200RPM
+
+VIDEO CARD
+£450.00 GBP
+MSI GeForce GTX 1080 8 GB Founders Edition
+
+CASE
+£105.00 GBP
+NZXT H440 (White/Black) ATX Mid Tower
+
+POWER SUPPLY
+£80.00 GBP
+EVGA SuperNOVA G2 750 W 80+ Gold Certified Fully-Modular ATX
+
+OPERATING SYSTEM
+$98.89
+Microsoft Windows 10 Home OEM 64-bit
+
+MONITOR
+$344.99
+Asus PB287Q 28.0" 3840x2160 60 Hz
