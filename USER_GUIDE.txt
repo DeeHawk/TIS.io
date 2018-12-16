@@ -1,0 +1,58 @@
+Build My Battlestation
+CS 410 Fall 2018
+Dilruba Hawk and Zeed Jarrah
+
+Running project:
+  Run the command:
+    python3 battlestations.py <file>
+    
+
+PCPartPicker Text Data:
+  The file contains a part list pulled from the website: https://pcpartpicker.com.
+  A List of parts tells you what each part is, its price and is delimited by a return character.
+
+Example:
+
+Build # 1
+
+CPU
+$169.99
+AMD Ryzen 5 2600X 3.6 GHz 6-Core
+
+MOTHERBOARD
+$59.99
+MSI B450-A PRO ATX AM4
+
+MEMORY
+$114.99
+G.Skill Ripjaws V Series 16 GB (2 x 8 GB) DDR4-3200
+
+STORAGE
+$59.99
+Samsung 860 Evo 500 GB 2.5" SSD
+
+VIDEO CARD
+$162.73
+MSI Radeon RX 570 8 GB ARMOR MK2
+
+CASE
+$49.30
+DIYPC Silence-BK-Window ATX Mid Tower
+
+POWER SUPPLY
+$29.80
+SeaSonic EVO Edition 620 W 80+ Bronze Certified Fully-Modular ATX
+
+MONITOR
+$139.99
+MSI Optix MAG24C 23.6" 1920x1080 144 Hz
+
+HEADPHONES
+$29.99
+Logitech G430 7.1 Channel
+$816.77
+TOTAL:
+
+Potential Future Enhancements:
+  - Add more expressions to identify other parts
+  - Integrate price/performance metrics
